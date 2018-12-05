@@ -3,3 +3,5 @@
 the food ordering app should have the login part
 it have also signin for new customer for registration
 and also it have the menu page
+it have the history page
+it have the like page
