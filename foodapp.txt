@@ -1,8 +1,9 @@
-      this is the food Ordering app
+      this is the food Ordering app and with the features
 
 the food ordering app should have the login part
 it have also signin for new customer for registration
 and also it have the menu page
+adding the animation in the home page
 it have the history page
 it have the like page
 it has the view pager on this app
