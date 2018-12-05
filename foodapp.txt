@@ -8,3 +8,4 @@ it have the like page
 it has the view pager on this app
 it has also an intent class to switch from different pages 
 it has the bundle for transfer of the data from a page to page
+it has alos the fragment of the different pages
