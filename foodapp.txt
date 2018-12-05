@@ -1,2 +1,5 @@
+      this is the food Ordering app
+
 the food ordering app should have the login part
-ii have also signin for new customer for registration
+it have also signin for new customer for registration
+and also it have the menu page
